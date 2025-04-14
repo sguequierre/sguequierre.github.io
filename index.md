@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# About Me
-
 Hi! I'm Sierra Guequierre.
 I transform complex technical concepts into clear, accessible documentation that empowers users and developers alike.
 
